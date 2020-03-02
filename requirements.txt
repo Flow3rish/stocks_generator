@@ -1,2 +1,4 @@
 pandas
 numpy
+kafka-python
+crc32c # optional, better speed
